@@ -1,0 +1,1 @@
+double *invert_matrix(int n, double *);
